@@ -3,9 +3,9 @@ pipeline {
     environment {
         IMAGE_NAME = "alpinehelloworld"
         IMAGE_TAG = "ajc-2.1"
-        STAGING = "frazer-ajc-staging-env"
-        PRODUCTION = "frazer-ajc-prod-env"
-        USERNAME = "sadofrazer"
+        STAGING = "lilya-ajc-staging-env"
+        PRODUCTION = "lilya-ajc-prod-env"
+        USERNAME = "lilya0204"
         CONTAINER_NAME = "alpinehelloworld"
     }
 
